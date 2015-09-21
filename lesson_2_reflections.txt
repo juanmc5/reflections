@@ -3,3 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 git creates a database to store the information related to the files inside the directory.
 
 tracks the evolution of the files added to the repository.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+just adds to the git database the modified files frome the listo of files to be tracked. 
