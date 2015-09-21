@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git creates a database to store the information related to the files inside the directory.
+
+tracks the evolution of the files added to the repository.
