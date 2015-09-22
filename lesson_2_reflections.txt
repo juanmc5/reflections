@@ -7,4 +7,10 @@ tracks the evolution of the files added to the repository.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-just adds to the git database the modified files frome the listo of files to be tracked. 
+just adds to the git database the modified files frome the listo of files to be tracked.
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+add only the files that make part of the logical change, leaving the rest on the working area. 
